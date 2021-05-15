@@ -15,20 +15,24 @@
 
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=TypeScript&logoColor=blue" />
 
+<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=Node.js&logoColor=6DB33F" />
+
+
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL&logoColor=00758F" />
 
+<br>
 
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-white?style=flat-square&logo=Linux&logoColor=black" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=MongoDB&logoColor=" />
 
-  <img alt="git" src="https://img.shields.io/badge/-Git-white?style=flat-square&logo=git&logoColor=F05032" />
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-white?style=flat-square&logo=Linux&logoColor=black" />
 
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=GitHub&logoColor=181717" />
+<img alt="git" src="https://img.shields.io/badge/-Git-white?style=flat-square&logo=git&logoColor=F05032" />
 
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-white?style=flat-square&logo=angular&logoColor=DD0031" />
+<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=GitHub&logoColor=181717"/>
 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker&logoColor=46a2f1" />
+<img alt="angular" src="https://img.shields.io/badge/-Angular-white?style=flat-square&logo=angular&logoColor=DD0031" />
 
-
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker&logoColor=46a2f1"/>
 
 [comment]: <> (  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />)
 
@@ -46,6 +50,8 @@
 
 
 </p>
+
+![counter](https://encsafhfaa5z1dw.m.pipedream.net)
 
 
 <!--
