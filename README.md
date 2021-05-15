@@ -1,4 +1,4 @@
-## Hi there 👋 I am <span style="color:green"> Madhusudan Singh</span>. I am a <span style="color:blue">Software Engineer</span>.
+## Hi there 👋 I am <span style="color:green"> Madhusudan Singh</span>. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-madhusudan-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madhusudan0/)](https://www.linkedin.com/in/madhusudan0/)
 [![Github Badge](https://img.shields.io/badge/-fervid_cloud-black?logo=github&logoColor=white&link=https://github.com/fervid-cloud)](https://github.com/fervid-cloud)
@@ -51,7 +51,7 @@
 
 </p>
 
-![counter](https://encsafhfaa5z1dw.m.pipedream.net)
+[comment]: <> (![counter]&#40;https://encsafhfaa5z1dw.m.pipedream.net&#41;)
 
 
 <!--
