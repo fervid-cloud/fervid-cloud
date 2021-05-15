@@ -1,8 +1,8 @@
 ## Hi there 👋 I am [Madhusudan Singh](https://mss.bnxn.live)
 
-[![Linkedin Badge](https://img.shields.io/badge/-madhusudan-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/madhusudan0/)](https://www.linkedin.com/in/madhusudan0/)
-[![Github Badge](https://img.shields.io/badge/-fervid_cloud-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/fervid-cloud)](https://github.com/fervid-cloud)
-[![Stackoverflow Badge](https://img.shields.io/badge/-mss-%23BCBBBB?style=flat-square&logo=stackoverflow&logoColor=#F69950&link=https://stackoverflow.com/users/7551092/mss)](https://stackoverflow.com/users/7551092/mss)
+[![Linkedin Badge](https://img.shields.io/badge/-madhusudan-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madhusudan0/)](https://www.linkedin.com/in/madhusudan0/)
+[![Github Badge](https://img.shields.io/badge/-fervid_cloud-black?logo=github&logoColor=white&link=https://github.com/fervid-cloud)](https://github.com/fervid-cloud)
+[![Stackoverflow Badge](https://img.shields.io/badge/-mss-%23BCBBBB?logo=stackoverflow&logoColor=#F69950&link=https://stackoverflow.com/users/7551092/mss)](https://stackoverflow.com/users/7551092/mss)
 [![Website Badge](https://img.shields.io/badge/-mss.bnxn.live-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://mss.bnxn.live)](https://mss.bnxn.live)
 
 <h3>Technologies I like</h3>
