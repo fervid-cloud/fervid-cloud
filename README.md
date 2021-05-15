@@ -22,11 +22,11 @@
 
   <img alt="git" src="https://img.shields.io/badge/-Git-white?style=flat-square&logo=git&logoColor=F05032" />
 
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=GitHub&logoColor=181717" />
 
   <img alt="angular" src="https://img.shields.io/badge/-Angular-white?style=flat-square&logo=angular&logoColor=DD0031" />
 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker&logoColor=46a2f1" />
 
 
 
