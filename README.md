@@ -1,4 +1,4 @@
-## Hi there 👋 I am [<span style="color:green"> Madhusudan Singh </span>](https://mss.bnxn.live). I am a <span style="color:blue">Software Engineer</span>.
+## Hi there 👋 I am <span style="color:green"> Madhusudan Singh</span>. I am a <span style="color:blue">Software Engineer</span>.
 
 [![Linkedin Badge](https://img.shields.io/badge/-madhusudan-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madhusudan0/)](https://www.linkedin.com/in/madhusudan0/)
 [![Github Badge](https://img.shields.io/badge/-fervid_cloud-black?logo=github&logoColor=white&link=https://github.com/fervid-cloud)](https://github.com/fervid-cloud)
