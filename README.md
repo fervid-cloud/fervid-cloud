@@ -1,11 +1,11 @@
-## Hi there 👋 I am <span style="color:green"> Madhusudan Singh</span>. 
+## Hi there <img src="https://raw.githubusercontent.com/fervid-cloud/fervid-cloud/master/wave.gif" width="25px"> I am <span style="color:green"> Madhusudan Singh</span>. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-madhusudan-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madhusudan0/)](https://www.linkedin.com/in/madhusudan0/)
 [![Github Badge](https://img.shields.io/badge/-fervid_cloud-black?logo=github&logoColor=white&link=https://github.com/fervid-cloud)](https://github.com/fervid-cloud)
 [![Stackoverflow Badge](https://img.shields.io/badge/-mss-%23BCBBBB?logo=stackoverflow&logoColor=#F69950&link=https://stackoverflow.com/users/7551092/mss)](https://stackoverflow.com/users/7551092/mss)
 [![Website Badge](https://img.shields.io/badge/-mss.bnxn.live-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://mss.bnxn.live)](https://mss.bnxn.live)
 
-<h3>Technologies I like</h3>
+<h3>🔧 Technologies and tools I like</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&logoColor=brown" />
 
