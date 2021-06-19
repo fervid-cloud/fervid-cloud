@@ -5,7 +5,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-mss-%23BCBBBB?logo=stackoverflow&logoColor=#F69950&link=https://stackoverflow.com/users/7551092/mss)](https://stackoverflow.com/users/7551092/mss)
 [![Website Badge](https://img.shields.io/badge/-mss.bnxn.live-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://mss.bnxn.live)](https://mss.bnxn.live)
 
-<h3>🔧 Technologies and tools I like</h3>
+<h3>🔧 Technologies and tools I like and work with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&logoColor=brown" />
 
